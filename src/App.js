@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import Login from './components/logIn'; // Import the Login component
 
 function App() {
