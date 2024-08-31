@@ -1,12 +1,12 @@
 import React from 'react';
-import Login from './components/logIn'; // Import the Login component
+import Login from './components/logIn'; 
 
 function App() {
   return (
     <div className="App">
       <div className="background"></div>
       <header className="App-header">
-        <Login /> {/* Include the Login component */}
+        <Login /> 
       </header>
     </div>
   );
