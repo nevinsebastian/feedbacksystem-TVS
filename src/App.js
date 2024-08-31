@@ -1,12 +1,15 @@
 import React from 'react';
 import Login from './components/logIn'; 
+import FeedBackSysytem from './components/feedBackSysytem';
+
 
 function App() {
   return (
     <div className="App">
       <div className="background"></div>
       <header className="App-header">
-        <Login /> 
+        {/*<Login /> */}
+        <FeedBackSysytem />
       </header>
     </div>
   );

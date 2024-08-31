@@ -1,12 +1,26 @@
-import { View, Text } from 'react-native'
 import React from 'react'
 
-const feedBackSysytem = () => {
+function feedBackSysytem() {
   return (
-    <View>
-      <Text>feedBackSysytem</Text>
-    </View>
+    <div style={styles.loginContainer}>
+    </div>
   )
+}
+
+
+const styles = {
+  loginContainer: {
+    backgroundImage: 'url(/mesh-gradient.svg)',
+    backgroundSize: 'cover',
+    backgroundPosition: 'center',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    height: '100vh',
+    margin: 0,
+    padding: 0,
+    fontFamily: 'Arial, sans-serif',
+  },
 }
 
 export default feedBackSysytem
