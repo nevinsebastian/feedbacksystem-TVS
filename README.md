@@ -11,4 +11,4 @@
 
 # section to enter customer details for services
 
-![Uploading Screenshot from 2024-09-01 14-39-24.png…]()
+![Screenshot from 2024-09-01 14-39-24](https://github.com/user-attachments/assets/08d15010-234a-4685-ae41-17f7167e4bf0)
