@@ -34,7 +34,7 @@ function FeedBackSystem() {
           <div style={styles.inputGroup}>
             <label htmlFor="name" style={styles.label}>Name</label>
             <input
-              type="text"
+              type="text"  
               id="name"
               name="name"
               value={formData.name}
